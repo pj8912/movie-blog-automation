@@ -1,3 +1,11 @@
+#get title
+from imdb import Cinemagoer
+ia  = Cinemagoer()
+movies = ia.get_top250_movies()
+movie_list = [] #movie list that has the titles
+for i in range(len(movies)):
+    movie_list.append(movies[i]['title'])
+    print(f'[{i}]', ':', movies[i]['title'])
 
 
 

@@ -19,5 +19,13 @@ data = response.json()
 
 categories = list(data['query']['pages'].values())[0]['categories']
 
+
+film_check = 0
 for category in categories:
-    print(category['title'])
+    # print(category['title'])
+    if 'film' in category['title']:
+        film_check = 1
+    else:
+        film_check = 0
+
+print(file_check)
