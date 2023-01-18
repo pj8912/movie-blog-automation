@@ -1,4 +1,3 @@
-#get title
 from imdb import Cinemagoer
 import wikipedia
 import requests
@@ -7,6 +6,7 @@ from bs4 import BeautifulSoup
 
 
 
+#get title
 ia  = Cinemagoer()
 movies = ia.get_top250_movies()
 movie_list = [] #movie list that has the titles
