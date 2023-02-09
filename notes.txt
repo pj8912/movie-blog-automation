@@ -1,5 +1,0 @@
-working scripts:
--- wiki_plot.py 
--- test_check_cat.py
--- search_wiki.py 
--- imdb_test.py
