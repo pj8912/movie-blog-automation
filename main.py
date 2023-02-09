@@ -9,7 +9,7 @@ movie_title = [e for e in lists]
 # print(movie_title)
 
 
-movie_s = movie_title[2:]
+movie_s = movie_title[:]
 
 
 
