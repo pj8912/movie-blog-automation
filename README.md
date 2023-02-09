@@ -4,6 +4,8 @@ Blogging Automation Project
 IMDb Top 250 Movie Plot Scraper & Poster Uploader
 This project is designed to fetch the top 250 movies from IMDb, search for their corresponding Wikipedia pages, extract the plot and poster image, and finally upload the information to a Blogger account using the Blogger API.
 
+Blogger Site :  https://movieplotzz.blogspot.com/
+
 ## Getting Started
 These instructions will help you get started with the project.
 
