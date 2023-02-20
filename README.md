@@ -31,12 +31,18 @@ Before getting started with the project, you will need the following:
 ## Installing
 
 - Clone the repository to your local machine.
+```
+git clone https://github.com/pj8912/wiki-blog-automation.git
 
-`git clone https://github.com/pj8912/wiki-blog-automation.git`
+```
 
 - Install the required packages.
 
-`pip install -r requirements.txt`
+
+```
+pip install -r requirements.txt
+
+```
 
 
 ## Configuration
@@ -52,7 +58,11 @@ Before getting started with the project, you will need the following:
 ## Usage
 
 1. Run the main.py file to start the project.
- `python main.py`
+ 
+```
+python main.py
+
+```
 
 
 2. The project will fetch the top 250 movies from IMDb, search for their corresponding Wikipedia pages, extract the plot and poster image, and finally upload the information to a Blogger account using the Blogger API.
