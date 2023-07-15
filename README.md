@@ -1,4 +1,4 @@
-# wiki-blog-automation
+# movie-blog-automation
 
 
 ![blogger-autom](https://user-images.githubusercontent.com/59218902/220018801-24f25cc9-2a56-4fe8-957c-179355a42fbb.png)
@@ -9,7 +9,7 @@
 IMDb Top 250 Movie Plot Scraper & Poster Uploader
 This project is designed to fetch the top 250 movies from IMDb, search for their corresponding Wikipedia pages, extract the plot and poster image, and finally upload the information to a Blogger account using the Blogger API.
 
-Blogger Site :  https://movieplotzz.blogspot.com/
+Blogger Site :  https://movieplotzz.blfogspot.com/
 
 ## Getting Started
 These instructions will help you get started with the project.
@@ -32,7 +32,7 @@ Before getting started with the project, you will need the following:
 
 - Clone the repository to your local machine.
 ```
-git clone https://github.com/pj8912/wiki-blog-automation.git
+git clone https://github.com/pj8912/movie-blog-automation.git
 
 ```
 
